@@ -1,0 +1,23 @@
+#pig-button {
+    background-color: pink;
+}
+
+@font-face {
+  font-family: "Greco";
+  src: url("GRECOromanLubedWrestling.ttf");
+  format("truetype");
+}
+
+@font-face {
+  font-family: "Numbers";
+  src: url("PAC LIBERTAS font.ttf");
+  format("truetype");
+}
+h1 {
+    font-family: "Greco", sans-serif;
+    }
+
+
+.numbers {
+    font-family: "Numbers", serif;
+    }
